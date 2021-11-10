@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "question": "Pick some food",
+            "choices": ["caesar salad", "nuggets", "burger", "chicken sandwich"],
+            "answers": "caesar salad"
+        },
+        {
+            "question": "Pick a healthy choice",
+            "choices": ["fruit", "salad", "parfait", "pasta salad"],
+            "answers": "fruit"
+        },
+        {
+            "question": "Pick a movie snack",
+            "choices": ["M&M’s", "caramel popcorn", "traditional popcorn", "ice cream"],
+            "answers": "traditional popcorn"
+        },
+        {
+            "question": "Pick a fast-food spot",
+            "choices": ["Dunkin’ Donuts", "Wendy’s", "Burger King", "McDonald’s"],
+            "answers": "Dunkin’ Donuts"
+        },
+        {
+            "question": "Pick some more food",
+            "choices": ["pasta", "chicken", "sandwich", "pizza"],
+            "answers": "pasta"
+        }
+    ]
+}
